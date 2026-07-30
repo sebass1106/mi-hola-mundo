@@ -1,17 +1,17 @@
  body{
-    background-color:#121212;
-    color:#ffffff;
+    background-color:#121212 !important;
+    color:#ffffff !important;
       }
  *{
-   font-family: "helvetica Neue", Helvetica, Arial, sans-serif;
-   font-stretch: condensed;
-   font-weight: 700;
+   font-family: "helvetica Neue", Helvetica, Arial, sans-serif !important;
+   font-stretch: condensed !important;
+   font-weight: 700 !important;
  }
 .link-spotify{
-    color: #1DB954;
-    text-decoration:none;
+    color: #1DB954 !important;
+    text-decoration:none !important;
 }
 .link-youtube{
-    color: #FF0000;
-    text-decoration:none;
+    color: #FF0000 !important;
+    text-decoration:none !important;
 }
