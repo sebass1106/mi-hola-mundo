@@ -2,4 +2,8 @@
     background-color:#121212;
     color:#ffffff;
       }
-    
+ *{
+   font-family: "helvetica Neue", Helvetica, Arial, sans-serif;
+   font-stretch: condensed;
+   font-weight: 700;
+ }
