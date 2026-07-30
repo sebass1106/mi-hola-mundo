@@ -7,3 +7,11 @@
    font-stretch: condensed;
    font-weight: 700;
  }
+.link-spotify{
+    color: #1DB954;
+    text-decoration:none;
+}
+.link-youtube{
+    color: #FF0000;
+    text-decoration:none;
+}
