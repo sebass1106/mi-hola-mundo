@@ -20,3 +20,12 @@ audio {
     height: 40px;
     background-color: #000000; 
     border-radius: 0px 
+}
+audio {
+    width: 320px;
+    height: 40px;
+  -webkit-appearance: none;
+    appearance: none;
+    background-color: #000000 !important;
+    border-radius: 0px !important;
+}
