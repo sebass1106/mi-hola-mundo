@@ -15,3 +15,8 @@
     color: #FF0000 !important;
     text-decoration:none !important;
 }
+audio {
+    width: 320px;
+    height: 40px;
+    background-color: #000000; 
+    border-radius: 0px 
